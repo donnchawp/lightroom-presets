@@ -23,7 +23,7 @@
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">Light Map (5 step)</rdf:li>
+     <rdf:li xml:lang="x-default">Light Map (5)</rdf:li>
     </rdf:Alt>
    </crs:Name>
    <crs:ShortName>
@@ -38,7 +38,7 @@
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default"/>
+     <rdf:li xml:lang="x-default">Ozone</rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>
@@ -53,7 +53,7 @@
        crs:What="Correction"
        crs:CorrectionAmount="1"
        crs:CorrectionActive="true"
-       crs:CorrectionName="5"
+       crs:CorrectionName="5 - Light"
        crs:CorrectionSyncID="FE2BECDA636644DAA8E6E11E5807DABD"
        crs:LocalExposure="0"
        crs:LocalHue="0"
@@ -107,7 +107,7 @@
        crs:What="Correction"
        crs:CorrectionAmount="1"
        crs:CorrectionActive="true"
-       crs:CorrectionName="4"
+       crs:CorrectionName="4 - Light"
        crs:CorrectionSyncID="48C8140BDAF84F10A269120E55C7C088"
        crs:LocalExposure="0"
        crs:LocalHue="0"
@@ -161,7 +161,7 @@
        crs:What="Correction"
        crs:CorrectionAmount="1"
        crs:CorrectionActive="true"
-       crs:CorrectionName="3"
+       crs:CorrectionName="3 - Mid"
        crs:CorrectionSyncID="0944856273B74A3C9006D708DC728851"
        crs:LocalExposure="0"
        crs:LocalHue="0"
@@ -215,7 +215,7 @@
        crs:What="Correction"
        crs:CorrectionAmount="1"
        crs:CorrectionActive="true"
-       crs:CorrectionName="2"
+       crs:CorrectionName="2 - Dark"
        crs:CorrectionSyncID="9293A73279064DF3894F0D392F15BFF5"
        crs:LocalExposure="0"
        crs:LocalHue="0"
@@ -269,7 +269,7 @@
        crs:What="Correction"
        crs:CorrectionAmount="1"
        crs:CorrectionActive="true"
-       crs:CorrectionName="1"
+       crs:CorrectionName="1 - Dark"
        crs:CorrectionSyncID="5689DED6326B4592974D24EA118796F0"
        crs:LocalExposure="0"
        crs:LocalHue="0"
