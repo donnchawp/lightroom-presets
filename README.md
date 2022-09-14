@@ -14,7 +14,7 @@ So far there's only one preset, the Light Map preset that I recently developed, 
 
 ## Light Map (5)
 
-Right click on [Light Map (5).xmp](https://raw.githubusercontent.com/donnchawp/lightroom-presets/main/Ozone/Light%20Map%205.xmp) and save to your computer.
+Right click on [Light Map (5).xmp](https://raw.githubusercontent.com/donnchawp/lightroom-presets/main/Ozone/Light%20Map%20(5).xmp) and save to your computer.
 
 This is a preset that will add 5 luminance range masks to your image. You can use it to quickly edit different parts of your image so you can treat bright areas differently to dark areas.
 
