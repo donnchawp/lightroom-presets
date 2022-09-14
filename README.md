@@ -3,10 +3,6 @@ This will hopefully become a collection of Adobe Lightroom presets I use when I 
 
 So far there's only one preset, the Light Map preset that I recently developed, but I have a few more so there will be further updates.
 
-All content is copyright Donncha O Caoimh.
-https://inphotos.org/
-https://instagram.com/docinphotos/
-
 ## Installation
 
 * Download the latest release as a zip file from the Releases page here and unzip it. You can also download any .xmp file separately by viewing the file and clicking on the "RAW" view button. You can save it using CMD-s (Mac) or CTRL-s (Windows/Linux) to your Downloads folder.
@@ -27,4 +23,8 @@ Before
 
 ![Light Map Preset (After)](/Ozone/lightroom-classic-lightmap-2.jpg "Light Map (After)")
 After
+
+Copyright Donncha O Caoimh.
+* https://inphotos.org/
+* https://instagram.com/docinphotos/
 
